@@ -10,9 +10,6 @@
     <a href="{{ route('volunteer.penyaluran.index') }}" class="nav-link">
         <i class="bi bi-box-seam"></i> Data Penyaluran
     </a>
-    <a href="{{ route('volunteer.tugas.index') }}" class="nav-link">
-        <i class="bi bi-clipboard-check"></i> Tugas Saya
-    </a>
     <a href="{{ route('home') }}" class="nav-link">
         <i class="bi bi-house"></i> Beranda
     </a>
